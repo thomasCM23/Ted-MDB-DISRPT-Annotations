@@ -1,0 +1,3 @@
+[submodule "original_data"]
+	path = original_data
+	url = git@github.com:MurathanKurfali/Ted-MDB-Annotations.git
